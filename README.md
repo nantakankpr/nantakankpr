@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nantakankpr
 - 👀 I’m interested in mobile development (flutter)
-- 🌱 I’m currently learning to build mobile application (flutter)
+- 🌱 I’m currently learning to build a mobile application (flutter)
 - 💞️ I’m looking to collaborate on every mobile development company
 - 📫 How to reach me [email: nantakankpr@gmail.com]
 
